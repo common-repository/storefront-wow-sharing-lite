@@ -1,0 +1,43 @@
+# Copyright (C) 2015 Storefront Wow Sharing Lite
+# This file is distributed under the same license as the Storefront Wow Sharing Lite package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Storefront Wow Sharing Lite 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/storefront-wow-sharing-lite\n"
+"POT-Creation-Date: 2015-01-27 14:35:53+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Disenialia <ventas@disenialia.com>\n"
+"Language-Team: Disenialia <ventas@disenialia.com>\n"
+
+#: storefront-wow-sharing.php:139
+#: storefront-wow-sharing.php:148
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: storefront-wow-sharing.php:168
+msgid "%sThanks for installing the Storefront Wow Sharing extension. To get started, visit the %sCustomizer%s.%s %sOpen the Customizer%s"
+msgstr ""
+
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Storefront Wow Sharing"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://disenialia.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A boilerplate plugin for creating Storefront extensions"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Disenialia"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://disenialia.com/"
+msgstr ""

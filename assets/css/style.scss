@@ -1,0 +1,19 @@
+@import 'susy';
+@import 'bourbon';
+@import '../../../../themes/storefront/sass/utils/variables';
+
+.storefront-wow-product-sharing {clear: both; }
+.storefront-wow-product-sharing ul {margin-left: 0; }
+.storefront-wow-product-sharing ul li {list-style: none; }
+
+@media screen and (min-width: 768px) {
+
+	.storefront-wow-product-sharing { padding: 1.618em 0; }
+	.storefront-wow-product-sharing ul { margin: 0; }
+	.storefront-wow-product-sharing ul::after { clear: both; content: ""; display: table; }
+	.storefront-wow-product-sharing ul li { width: 5%; float: left; text-align: center; }
+	.storefront-wow-product-sharing ul li:last-child { border-right: 0; }
+	.storefront-wow-product-sharing ul li a { display: block; }
+	.storefront-wow-product-sharing ul li a:before { display: block; margin: 0 auto .007em; font-size: 2.618em; -webkit-transition: all, ease, 0.2s; -moz-transition: all, ease, 0.2s;transition: all, ease, 0.2s; }
+	.storefront-wow-product-sharing ul li a:hover { -webkit-transform: translateY(-0.236em); -moz-transform: translateY(-0.236em); -ms-transform: translateY(-0.236em); -o-transform: translateY(-0.236em); transform: translateY(-0.236em); }
+}
